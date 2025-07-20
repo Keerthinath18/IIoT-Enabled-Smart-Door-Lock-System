@@ -1,2 +1,10 @@
-# IIoT-Enabled-Smart-Door-Lock-System
-IoT-based door locking system using Raspberry Pi 4. Supports remote access via ThingSpeak, manual entry, and MQTT. Features OLED feedback, real-time monitoring, and email alerts with captured intruder images via Pi Camera. Built as a practical IoT security project.
+## 🔒 Door Locking Security System
+
+An IoT-based smart door locking system using Raspberry Pi 4. Includes three modes: cloud (ThingSpeak), manual entry, and emergency MQTT access. Features:
+- OLED status display
+- Intruder image capture via Pi Camera
+- Email alerts & buzzer warnings
+- Real-time occupancy tracking
+
+📊 Presentation: [MHi.pptx](MHi.pptx)
+🧠 Code: [lock.py](lock.py)
